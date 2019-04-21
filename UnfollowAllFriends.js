@@ -4,7 +4,7 @@
   **  
   */
   
-  const ACCESS_TOKEN = ''; // Get Token Here: https://gist.github.com/monokaijs/ce3abbc37d6bd435f70e39fd59eb3f67
+  const ACCESS_TOKEN = ''; // Get Token Here: https://github.com/nguyenxuanphuprofile/Facebook-JS/blob/master/GetFacebookToken2019.js
 
 	var get_friends = (e, o) => {
 		var a = new XMLHttpRequest;
