@@ -1,7 +1,7 @@
 (() => {
   /*
-  **  Author: MonokaiJs
-  **  Home: https://monokai.dev
+  **  
+  **  
   */
   
   const ACCESS_TOKEN = ''; // Get Token Here: https://gist.github.com/monokaijs/ce3abbc37d6bd435f70e39fd59eb3f67
