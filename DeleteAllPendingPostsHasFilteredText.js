@@ -1,8 +1,5 @@
 (() => {
 	/*
-	** Author: MonokaiJs (@MonokaiJsp | omfg.vn)
-	** Home  : https://omfg.vn
-	** Email : monokaijs@gmail.com 
 	** Date  : 16/02/2019
 	*/
 	
