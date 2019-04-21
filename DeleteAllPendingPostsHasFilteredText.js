@@ -1,6 +1,6 @@
 (() => {
 	/*
-	** Date  : 16/02/2019
+	* Date  : 16/02/2019
 	*/
 	
 	var groupID = '2294816267404325';								// REPLACE YOUR GROUP ID HERE
